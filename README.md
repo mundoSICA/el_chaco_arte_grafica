@@ -8,8 +8,22 @@ El nombre del Chaco refiere se lo agrego __@eymard__ y es del tipo albur, denota
 
 ##Lista de imagenes.
 
- - avatar_el_chaco_orfebre_del_web.svg
+	|-- avatar-el-chaco-orfebre-del-web.svg
+	|-- el-chaco-jugado-futball-americano.svg
+	|-- el-chaco-master-jedi.svg
+	|-- el-chaco-modo-el-pensador.svg
+	|-- el-chaco-ninja-corriendo.svg
+	|-- el-chaco-ninja-katana.svg
+	|-- el-chaco-orfebre-del-web.svg
+	|-- el-chaco-party.svg
+	|-- el-chaco-valores-esfuerzo.svg
+	`-- el-chaco-valores-libertad.svg
+
  
+###¿Donde puedo obtener las actualizaciones de este proyecto?
+
+[https://github.com/mundoSICA/el\_chaco\_arte\_grafica/](https://github.com/mundoSICA/el_chaco_arte_grafica/)
+
 
 ###Licencia:
 
