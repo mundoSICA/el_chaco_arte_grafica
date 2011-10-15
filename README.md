@@ -6,6 +6,11 @@ El Chaco es el personaje de SICÁ, el cual es un robot que eschucha musica por m
 
 El nombre del Chaco refiere se lo agrego __@eymard__ y es del tipo albur, denotando que es una __verdura__, es pues todo un chaco.
 
+##Descarga el proyecto
+
+<a href="https://github.com/mundoSICA/el_chaco_arte_grafica/tarball/master" class="button icon arrowdown">Download as <b>.tar.gz</b></a>
+<a href="https://github.com/mundoSICA/el_chaco_arte_grafica/zipball/master" class="button icon arrowdown">Download as <b>.zip</b></a>
+
 ##Lista de imagenes.
 
 	|-- avatar-el-chaco-orfebre-del-web.svg
