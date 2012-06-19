@@ -13,16 +13,23 @@ El nombre del Chaco refiere se lo agrego __@eymard__ y es del tipo albur, denota
 
 ##Lista de imagenes.
 
-	|-- avatar-el-chaco-orfebre-del-web.svg
-	|-- el-chaco-jugado-futball-americano.svg
-	|-- el-chaco-master-jedi.svg
-	|-- el-chaco-modo-el-pensador.svg
-	|-- el-chaco-ninja-corriendo.svg
-	|-- el-chaco-ninja-katana.svg
-	|-- el-chaco-orfebre-del-web.svg
-	|-- el-chaco-party.svg
-	|-- el-chaco-valores-esfuerzo.svg
-	`-- el-chaco-valores-libertad.svg
+	.
+	├── avatar-el-chaco-orfebre-del-web.svg
+	├── banner_pagina_principal.svg
+	├── disenio.svg
+	├── jugado-futball-americano.svg
+	├── master-jedi.svg
+	├── modo-el-pensador.svg
+	├── ninja-corriendo.svg
+	├── ninja-katana.svg
+	├── orfebre-del-web.svg
+	├── party.svg
+	├── samurai_javascript.png
+	├── samurai_javascript.svg
+	├── samurai.svg
+	├── valores-esfuerzo.svg
+	├── valores-libertad-slide.svg
+	└── valores-libertad.svg
 
  
 ###¿Donde puedo obtener las actualizaciones de este proyecto?
